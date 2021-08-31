@@ -1,0 +1,26 @@
+Git总结
+
+分布式版本控制系统
+安装git，官网，注意路径中没有中文。
+
+1.设置用户名和密码
+
+bio217@DESKTOP-G7HE4K2 MINGW64 ~ (master)
+$ git config user.name
+WYJ
+
+bio217@DESKTOP-G7HE4K2 MINGW64 ~ (master)
+$ git config user.email
+wangyijuan@mail.sdu.edu.cn
+
+修改用户名
+git config --global user.name "xxxx(新的用户名)"
+
+修改密码
+git config --global user.password "xxxx(新的密码)"
+
+修改邮箱
+git config --global user.email "xxxx@xxx.com(新的邮箱)"
+
+
+ceshi
