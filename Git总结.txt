@@ -23,4 +23,10 @@ git config --global user.password "xxxx(新的密码)"
 git config --global user.email "xxxx@xxx.com(新的邮箱)"
 
 
-ceshi
+git init 初始化一个git仓库
+
+git commit -m"提交命令的说明"
+
+git add 文件名 添加文件
+
+#git命令必须在git仓库下进行，添加文件时该文件必须在目录下
